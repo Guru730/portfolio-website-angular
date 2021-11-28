@@ -1,0 +1,14 @@
+.projects-section-row-one {
+  display: block;
+}
+
+.card-one-ctn{
+  width: 50%;
+  display: inline-block;
+}
+
+
+.card-two-ctn{
+  width: 50%;
+  display: inline-block;
+}
